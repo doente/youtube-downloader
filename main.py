@@ -7,7 +7,7 @@ ydl_opts = {}
 
 def main():
     arg = sys.argv[1]
-    
+     
     try:
         os.chdir(directory)
         print(f'Foi detectado que a pasta {directory} já existe e o arquivo está sendo baixado:')
