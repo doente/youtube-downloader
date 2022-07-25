@@ -1,7 +1,7 @@
 # Youtube Downloader
 A simple youtube videos downloader
 
-# Como usar:
+# how to use:
 ```
 Install the dependencies 
 
