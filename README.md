@@ -1,12 +1,14 @@
 # Youtube Downloader
-Baixador de vídeos do youtube
+A simple youtube videos downloader
 
 # Como usar:
 ```
-Instale as packages com pip install -r ./requirements.txt.
+Install the dependencies 
+
+pip install -r ./requirements.txt.
 ```
 
-Rode o script com python ./main.py e espere todos os vídeos serem baixados.
+Run the code with python main.py
 
 ## LICENSE
-Este projeto está licenciado sob a [LICENSE](LICENSE) Apache V2.
+This project is licensed under the [LICENSE](LICENSE) Apache V2.
